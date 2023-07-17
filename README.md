@@ -1,1 +1,3 @@
 # MAPPO-Multi-Agent-Proximal-Policy-Optimization-in-Swarms
+
+MAPPO (Multi-Agent Proximal Policy Optimization) is a method used to train multiple agents to make decisions in a coordinated way. It involves each agent having its own policy (set of rules) for decision-making and a shared understanding of the overall goal. During training, the agents learn by interacting with the environment and adjusting their policies based on feedback to improve their collective performance. MAPPO ensures that the learning process is stable and effective by using specific techniques to update the agents' policies.
